@@ -1,0 +1,1 @@
+alert http $HOME_NET any -> $EXTERNAL_NET 80 (msg:"Lumma Stealer Victim Fingerprinting Activity"; flow:established,to_server; http.method; content:"POST"; http.uri; content:"/api/set_agent"; classtype:trojan-activity; sid:9000001; rev:1;)

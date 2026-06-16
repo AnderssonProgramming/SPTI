@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "fd3bc2bd62967504",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca87f8ac6e40f842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16cac3904aaacdb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Digital Forensics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Digital Forensics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3afce5ce80e6ec61",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7077232eff62229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a63def6cb70059",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a40a1a07039c0d17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "06c18c046b07f419",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4bb65de8a5598279",
+    "type": "split",
+    "children": [
+      {
+        "id": "a56f83246906ede3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94bf5eabdc814759",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Digital Forensics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Digital Forensics"
+            }
+          },
+          {
+            "id": "22f6bc92c042b830",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Digital Forensics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Digital Forensics"
+            }
+          },
+          {
+            "id": "8df682be8f2a8e3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "db241b4b4f263b76",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "af33c2d87b196904",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Digital Forensics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Digital Forensics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "16cac3904aaacdb0",
+  "lastOpenFiles": [
+    "Digital Forensics.pdf",
+    "disco/forensic_timeline.txt",
+    "disco/timeline.body",
+    "autopsy-4.23.0/autopsy/plaso/plaso-20180818-amd64/tcl/tzdata/Antarctica/South_Pole",
+    "timeline.body",
+    "autopsy-4.23.0/forensic_timeline.txt",
+    "autopsy-4.23.0/timeline.body",
+    "autopsy-4.23.0/autopsy/plaso/plaso-20180818-amd64/tcl/tzdata/Antarctica/Palmer",
+    "autopsy-4.23.0/autopsy/plaso/plaso-20180818-amd64/tcl/tzdata/Antarctica/Rothera",
+    "autopsy-4.23.0/autopsy/plaso/plaso-20180818-amd64/pytz/zoneinfo/Asia/Karachi",
+    "autopsy-4.23.0/autopsy/plaso/plaso-20180818-amd64/pytz/zoneinfo/Asia/Kashgar",
+    "autopsy-4.23.0/Running_Linux_OSX.md",
+    "autopsy-4.23.0/jre/legal/jdk.localedata/thaidict.md",
+    "autopsy-4.23.0/jre/legal/jdk.localedata/cldr.md",
+    "autopsy-4.23.0/jre/legal/jdk.javadoc/jqueryUI.md",
+    "autopsy-4.23.0/jre/legal/jdk.javadoc/jquery.md",
+    "autopsy-4.23.0/jre/legal/jdk.internal.opt/jopt-simple.md",
+    "autopsy-4.23.0/jre/legal/jdk.internal.le/jline.md",
+    "autopsy-4.23.0/jre/legal/jdk.dynalink/dynalink.md",
+    "autopsy-4.23.0/jre/legal/jdk.crypto.cryptoki/pkcs11wrapper.md",
+    "autopsy-4.23.0/jre/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md",
+    "autopsy-4.23.0/jre/legal/java.xml/xerces.md",
+    "autopsy-4.23.0/jre/legal/java.xml/xalan.md",
+    "autopsy-4.23.0/jre/legal/java.xml/jcup.md",
+    "autopsy-4.23.0/jre/legal/java.xml/dom.md",
+    "autopsy-4.23.0/jre/legal/java.xml/bcel.md",
+    "autopsy-4.23.0/jre/legal/java.xml.crypto/santuario.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/mesa3d.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/libpng.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/lcms.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/jpeg.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/harfbuzz.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/giflib.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/freetype.md",
+    "autopsy-4.23.0/jre/legal/java.desktop/colorimaging.md",
+    "autopsy-4.23.0/jre/legal/java.base/zlib.md",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/tree.png",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/solr-ico.png",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/solr.svg",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/lucene-ico.png",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/loader-light.gif",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/loader.gif",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/jstree/throbber.gif",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/jstree/40px.png",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/jstree/32px.png",
+    "autopsy-4.23.0/autopsy/solr/server/solr-webapp/webapp/img/ico/zone.png"
+  ]
+}

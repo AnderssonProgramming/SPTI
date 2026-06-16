@@ -1,0 +1,11 @@
+## Methodology
+Approach: Active Reconnaissance / Black Box. Standard: Technical Security Assessment. 
+
+• Process:
+   ◇ Network discovery and connectivity verification (Ping/Ifconfig).
+   ◇ Service enumeration and banner grabbing using Nmap.
+   ◇ Version analysis and vulnerability mapping (CVE correlation).
+   ◇ Evidence integrity verification via SHA256 hashing.
+
+
+

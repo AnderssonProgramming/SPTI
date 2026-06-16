@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Results</title>
+  <meta name="generator" content="CherryTree">
+  <link rel="stylesheet" href="res/styles4.css" type="text/css" />
+</head>
+<body>
+<div class='page'><h1 class='title'>Results</h1><br/><p>Vulnerability Table</p><p><table class="table"><tr><th>Port</th><th>Service</th><th>Version</th><th>Short Description</th><th>Severity</th></tr><tr><td>21</td><td>FTP</td><td>vsftpd 2.3.4</td><td>Backdoored version (CVE-2011-2523)</td><td>Critical</td></tr><tr><td>22</td><td>SSH</td><td>OpenSSH 4.7p1</td><td>	Accessible service; outdated version</td><td>Medium</td></tr><tr><td>23</td><td>Telnet</td><td>Linux telnetd</td><td>Unencrypted management protocol</td><td>High</td></tr><tr><td>80</td><td>HTTP</td><td>Apache 2.2.8</td><td>Hosting vulnerable web applications</td><td>High</td></tr><tr><td>445</td><td>SMB</td><td>Samba 3.x</td><td>Potential for RCE (SambaCry/EternalRed)</td><td>Critical</td></tr><tr><td>3306</td><td>MySQL</td><td>5.0.51a</td><td>Database exposed via network</td><td>High</td></tr></table></p><p>Highlighted Finding: Remote Root Compromise (vsftpd 2.3.4) Summary: The FTP service contains a backdoor (CVE-2011-2523) that grants unauthenticated root access. Technical Description: Using a specific character sequence :) in the username triggers a shell listener on port 6200.</p></div>
+</body>
+</html>

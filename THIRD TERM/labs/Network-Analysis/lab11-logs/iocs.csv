@@ -1,0 +1,7 @@
+Type,Value,Confidence,Source/Observation
+IP Address,153.92.1.49,High,Destination of the original IDS alert.
+Domain,c2-gate.lumma-services.com,High,Resolved from the alert IP via DNS.
+URL,http://c2-gate.lumma-services.com/api/set_agent,High,Path used for victim fingerprinting.
+User-Agent,Mozilla/5.0 (Lumma),Medium,Hardcoded string used by the malware agent.
+URI Pattern,/api/set_agent,Medium,Path for malware persistence checks.
+Protocol,HTTP (Unencrypted),High,Observed exfiltration of plaintext profile data.

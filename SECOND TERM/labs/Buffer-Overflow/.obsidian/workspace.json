@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "daab30d62c711699",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec11a3bc12dc2b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff9319f66722985b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buffer Overflow.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Buffer Overflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1354f8c9eecde89",
+    "type": "split",
+    "children": [
+      {
+        "id": "40438b03741ca618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1b871cabf7519c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "b2c626b7b11fa254",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "59356895e272abdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28155d7b0c81bcb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22ff6986bf5672e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69ecab0517c6938",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Buffer Overflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Buffer Overflow"
+            }
+          },
+          {
+            "id": "9480044e52cfa513",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Buffer Overflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Buffer Overflow"
+            }
+          },
+          {
+            "id": "53ef91e5c54b850b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e3b7b5675ce3d423",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ffd734992b308cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Buffer Overflow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Buffer Overflow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "ff9319f66722985b",
+  "lastOpenFiles": [
+    "Buffer Overflow.pdf",
+    "scripts/spike_trun.py",
+    "scripts/spike_stats.py",
+    "scripts/overwrite_eip.py",
+    "scripts/fuzz.py",
+    "scripts/find_offset.py",
+    "scripts/exploit.py",
+    "scripts/badchars.py",
+    "scripts/verify_jmp.py",
+    "scripts",
+    "Nueva carpeta",
+    "images/reverse-shell-id.png",
+    "images/msfvenom-gen.png",
+    "images/gdb-jmp-esp-trace.png",
+    "images/gadget-search.png",
+    "images/badchar-sequence.png",
+    "images/gdb-hex-dump.png",
+    "images/gdb-signal.png",
+    "images/pattern-offset-result.png",
+    "images/gdb-eip-value.png",
+    "images/fuzz-crash-result.png",
+    "Buffer Overflow.md"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "7487096bf2d02c6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de6c70e107878b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64b486fcba0964cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Engineering Test.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Reverse Engineering Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6fb843ca7c5593c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b431fc78e56fb825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f03563ea89315d52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa8947c98b142736",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd7408213d144ad7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "185deb7bfd4adf3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6b1801c7507d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6dbbc52df0ce4fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reverse Engineering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Reverse Engineering"
+            }
+          },
+          {
+            "id": "433b3eafded0a7e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reverse Engineering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reverse Engineering"
+            }
+          },
+          {
+            "id": "183a6d820b0dd20c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6d21ab3a416c5548",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c6992dd1cf823a2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reverse Engineering.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reverse Engineering"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "64b486fcba0964cc",
+  "lastOpenFiles": [
+    "Reverse Engineering.md",
+    "Reverse Engineering Test.md",
+    "passguess.rzdb",
+    "images/test-batched-binary.png",
+    "images/je-jne-command.png",
+    "images/radare-pdf-part2.png",
+    "images/radare-pdf-part1.png",
+    "images/binary-write-mode.png",
+    "Welcome.md",
+    "images/cutter-graph.png",
+    "images/cutter-dashboard.png",
+    "images/info-registers-command.png",
+    "images/xs-rsdi-command.png",
+    "images/test-strcmp-id.png",
+    "images"
+  ]
+}

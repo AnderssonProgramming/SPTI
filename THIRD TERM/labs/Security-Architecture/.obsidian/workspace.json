@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "852dd86f1c4c118c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1eb91fe702fb2a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fed19eb205d1d777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Architecture.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Security Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2549bffe5851fe18",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cba6c07b06f4932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d85739b14d45ce48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "db39790acc4bb7df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "ff5ae36b0877689d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11b0e8a0f7943f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "58e3b81007fe7387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e326a21fc627bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security Architecture.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Security Architecture"
+            }
+          },
+          {
+            "id": "11f03c63053eefb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Security Architecture.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Security Architecture"
+            }
+          },
+          {
+            "id": "0ea84e1bcce2148c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "18cf134d2d7b427b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9804ac64fd2fb6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Security Architecture.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Security Architecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "fed19eb205d1d777",
+  "lastOpenFiles": [
+    "images/network-topology.png",
+    "images/nmap-scan-results.png",
+    "Security Architecture.pdf",
+    "nftables-final.conf",
+    "nftables-final",
+    "images/firewall-logs-attack.png",
+    "images/hardened-result.png",
+    "images/hydra-command.png",
+    "images/syn-scan.png",
+    "images/connectivity-vm3.png",
+    "images/atomic-load.png",
+    "images/isolation-test.png",
+    "images/ip-route.png",
+    "images/ip-addr-show.png",
+    "images",
+    "Nueva carpeta",
+    "Security Architecture.md"
+  ]
+}

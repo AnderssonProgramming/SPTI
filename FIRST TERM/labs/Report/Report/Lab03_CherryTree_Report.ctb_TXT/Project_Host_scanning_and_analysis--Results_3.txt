@@ -1,0 +1,14 @@
+## Results
+Vulnerability Table
+
+| Port | Service | Version | Short Description | Severity |
+| 21 | FTP | vsftpd 2.3.4 | Backdoored version (CVE-2011-2523) | Critical |
+| 22 | SSH | OpenSSH 4.7p1 | 	Accessible service; outdated version | Medium |
+| 23 | Telnet | Linux telnetd | Unencrypted management protocol | High |
+| 80 | HTTP | Apache 2.2.8 | Hosting vulnerable web applications | High |
+| 445 | SMB | Samba 3.x | Potential for RCE (SambaCry/EternalRed) | Critical |
+| 3306 | MySQL | 5.0.51a | Database exposed via network | High |
+
+Highlighted Finding: Remote Root Compromise (vsftpd 2.3.4) Summary: The FTP service contains a backdoor (CVE-2011-2523) that grants unauthenticated root access. Technical Description: Using a specific character sequence :) in the username triggers a shell listener on port 6200.
+
+

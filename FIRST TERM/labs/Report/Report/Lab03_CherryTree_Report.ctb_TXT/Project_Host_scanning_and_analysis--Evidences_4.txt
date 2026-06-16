@@ -1,0 +1,13 @@
+## Evidences
+References FIles & Screenshots
+• ifconfig-kalilinux.png & ifconfig-metasploitable.png (Network context).
+
+• ping-kali-to-metasploitable.png & ping-metasploitable-to-kali.png (Connectivity proof).
+
+
+• nmap-kali-to-metasploitable-part1.png to part3.png (Service enumeration evidence).
+
+• sha256sum-nmap_scan-file.png (Integrity proof).
+
+Integrity Hash: nmap_scan.txt: 37804470200e008a687397e59670087702868019665557760773099908126830
+

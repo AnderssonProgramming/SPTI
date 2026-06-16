@@ -1,0 +1,9 @@
+## Recommendations
+Technical Action Plan:
+
+• Decommission Insecure Services: Disable Telnet (Port 23) and vsftpd 2.3.4 (Port 21).
+
+• Encryption: Transition all administrative traffic to SSH (Port 22).
+
+• Update Cycle: Implement a patch management policy to update Apache and Samba versions, as the current versions are end-of-life (EOL).
+

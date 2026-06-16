@@ -1,0 +1,10 @@
+## Notes by tool
+Nmap (v7.9x):
+
+• Execution: sudo nmap -sS -A -T4 192.168.106.129 -oN nmap_scan.txt. 
+• Observation: The -A flag was highly effective for OS detection and script scanning, accurately identifying the vsftpd backdoor and several Samba vulnerabilities without manual scripts.
+
+OpenSSL/Sha256sum:
+
+• Observation: Vital for maintaining the chain of custody. The generated hash matches the one reported in the final Obsidian document.
+

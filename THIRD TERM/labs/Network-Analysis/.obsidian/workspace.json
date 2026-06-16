@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "0b99c76ea12d934e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a9e1f4a7cc8f291",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3d421da8a2a09e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network Analysis.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Network Analysis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab313c775217afc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "697bee4c52fc456a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d65976b9a64e3889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d048e99f0e9c8864",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "321791d3397b9364",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89ab71280353ad6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc30155bb9d3d484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "369d2b6340587348",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Network Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Network Analysis"
+            }
+          },
+          {
+            "id": "605a0316f5ca8a10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Network Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Network Analysis"
+            }
+          },
+          {
+            "id": "c784643b90553808",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "4dd39fcb293ef88d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "1ca32eb5b90535d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Network Analysis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Network Analysis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "b3d421da8a2a09e9",
+  "lastOpenFiles": [
+    "Network Analysis.pdf",
+    "lab11-logs/ssl.log",
+    "lab11-logs/suricata-output/eve.json",
+    "lab11-logs/suricata-output/suricata.log",
+    "lab11-logs/suricata-output/stats.log",
+    "lab11-logs/suricata-output/fast.log",
+    "lab11-logs/x509.log",
+    "lab11-logs/weird.log",
+    "lab11-logs/smb_mapping.log",
+    "lab11-logs/smb_files.log",
+    "lab11-logs/quic.log",
+    "images/fast-log-alerts.png",
+    "images/suricata-run.png",
+    "images/pcre-rule-variant.png",
+    "images/forensic-command.png",
+    "Network Analysis.md",
+    "images/http-data-extraction.png",
+    "images/dns-queries-extraction.png",
+    "images/c2-gate-luma.png",
+    "images/samr-fullname.png",
+    "images/kerberos-as-req.png",
+    "images/dhcp-option-12-details.png"
+  ]
+}

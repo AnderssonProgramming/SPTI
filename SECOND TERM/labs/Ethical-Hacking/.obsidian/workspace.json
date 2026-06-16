@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "4cbfcf59b34b2534",
+    "type": "split",
+    "children": [
+      {
+        "id": "70b7bf079f4388b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42e424759bfbb5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ethical Hacking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9a4f3bb6f1ca561",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a2e92708e270811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "648a2733ea91e9c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ab57b9a1d2c38f7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "b1b15ab2669f4d08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91e4f11466d29f48",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fe657608ffeb29b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7051c41b4e1f2716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ethical Hacking.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Ethical Hacking"
+            }
+          },
+          {
+            "id": "043e61264d63fe7a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ethical Hacking.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Ethical Hacking"
+            }
+          },
+          {
+            "id": "148c2aaca168598a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "718e4c71e9daa42f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "482bcfd0dcde7156",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ethical Hacking.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Ethical Hacking"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "42e424759bfbb5be",
+  "lastOpenFiles": [
+    "Ethical Hacking.pdf",
+    "hashes.txt",
+    "cve_2025_4138.py",
+    "cve_2025_4138.py.txt",
+    "Nuevo Text Document.txt",
+    "images/root-flag-access.png",
+    "images/exploit-tar-gen.png",
+    "images/wacky-exec-script.png",
+    "images/sudo-l-output.png",
+    "images/user-flag-capture.png",
+    "images/ssh-login-success.png",
+    "images/hashcat-cracked.png",
+    "images/hashcat-running.png",
+    "images/hash-id-results.png",
+    "images/wacky-xml-content.png",
+    "HTB-Andersson.ovpn",
+    "HTB_Andersson.ovpn",
+    "images",
+    "Ethical Hacking.md"
+  ]
+}

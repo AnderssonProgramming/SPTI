@@ -1,0 +1,11 @@
+Wed Mar 04 2026 22:15:00      301 ma.. r/rrw-r--r-- 0        0        24       /home/jramirez/documents/patch_log.txt
+Thu Mar 05 2026 03:04:55     1024 ma.. d/drwxr-xr-x 0        0        1969     /tmp
+                              191 ma.. r/rrwxr-xr-x 0        0        30       /tmp/exfil_tool (deleted-realloc)
+Thu Mar 05 2026 03:06:00      154 ma.. r/rrw-r--r-- 0        0        29       /home/user/documents/credentials.txt (deleted-realloc)
+Thu Mar 05 2026 03:07:28     1024 ma.. d/drwxr-xr-x 0        0        14       /home/user
+                             1024 ma.. d/drwxr-xr-x 0        0        15       /home/user/documents
+                              427 ma.. r/rrw-r--r-- 0        0        25       /home/user/.bash_history
+Sat Mar 07 2026 03:14:30     1024 ma.. d/drwxr-xr-x 0        0        19       /var/log
+                             1024 ma.. d/drwxr-xr-x 0        0        1970     /var
+                             1416 ma.. r/rrw-r--r-- 0        0        26       /var/log/auth.log
+Sat Mar 07 2026 06:17:21      773 ma.. r/rrw-r--r-- 0        0        27       /var/log/syslog

@@ -1,0 +1,23 @@
+d/d 13:	home
++ d/d 14:	user
+++ d/d 15:	documents
++++ r/r 20:	budget_q1_2026.txt
++++ r/r 21:	audit_report_q4_2025.txt
++++ r/r 22:	server_inventory.txt
++++ r/r 23:	meeting_2026-02-28.txt
++++ r/r * 29(realloc):	credentials.txt
+++ d/d 16:	.ssh
+++ r/r 25:	.bash_history
++ d/d 17:	jramirez
+++ d/d 18:	documents
++++ r/r 24:	patch_log.txt
+d/d 11:	lost+found
+d/d 1969:	tmp
++ r/r * 30(realloc):	exfil_tool
+d/d 1970:	var
++ d/d 19:	log
+++ r/r 26:	auth.log
+++ r/r 27:	syslog
+d/d 3937:	etc
++ r/r 28:	passwd
+V/V 25585:	$OrphanFiles

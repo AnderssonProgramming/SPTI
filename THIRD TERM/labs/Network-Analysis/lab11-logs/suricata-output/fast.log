@@ -1,0 +1,6 @@
+01/27/2026-18:05:40.514473  [**] [1:9000001:1] Lumma Stealer Victim Fingerprinting Activity [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.1.21.58:54492 -> 153.92.1.49:80
+01/27/2026-18:05:47.793196  [**] [1:9000001:1] Lumma Stealer Victim Fingerprinting Activity [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.1.21.58:49295 -> 153.92.1.49:80
+01/27/2026-18:05:40.514473  [**] [1:9000001:1] Lumma Stealer Victim Fingerprinting Activity [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.1.21.58:54492 -> 153.92.1.49:80
+01/27/2026-18:05:47.793196  [**] [1:9000001:1] Lumma Stealer Victim Fingerprinting Activity [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.1.21.58:49295 -> 153.92.1.49:80
+01/27/2026-18:05:47.793196  [**] [1:9000002:1] Lumma Stealer Victim Fingerprinting Activity (PCRE Variant) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.1.21.58:49295 -> 153.92.1.49:80
+01/27/2026-18:05:40.514473  [**] [1:9000002:1] Lumma Stealer Victim Fingerprinting Activity (PCRE Variant) [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 10.1.21.58:54492 -> 153.92.1.49:80
